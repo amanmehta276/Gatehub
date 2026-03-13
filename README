@@ -1,0 +1,121 @@
+# 🚀 GateHub
+
+### Engineering Knowledge Vault
+
+GateHub is a centralized platform where engineering students can **discover, upload, and access academic resources** like notes, PDFs, assignments, and study materials organized by **branch and subject**.
+
+The goal of GateHub is to make learning resources **easy to find, organized, and accessible for every engineering student.**
+
+---
+
+## 🌟 Features
+
+* 📚 Browse subjects by engineering branch
+* 📂 Upload and download study materials
+* 🔍 Search for notes, PDFs, and resources easily
+* 👨‍🎓 Student & contributor login system
+* 📊 Organized subject-wise resource library
+* ⚡ Fast and minimal user interface
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* TailwindCSS
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+
+**Deployment**
+
+* GitHub Pages (Frontend)
+
+---
+
+## 📁 Project Structure
+
+```
+GateHub
+│
+├── frontend
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
+├── backend
+│   ├── server.js
+│   ├── routes
+│   ├── controllers
+│   └── middleware
+│
+└── README.md
+```
+
+---
+
+## 🎯 Purpose
+
+Engineering students often struggle to find **reliable and organized study material**.
+GateHub solves this by creating a **community-driven academic resource hub**.
+
+Students can:
+
+* Access quality resources
+* Share their own notes
+* Learn collaboratively
+
+---
+
+## 🚧 Project Status
+
+This project is currently **under development**.
+New features and improvements are being added regularly.
+
+---
+
+## 💡 Future Improvements
+
+* User profiles
+* Resource rating system
+* AI-powered resource recommendation
+* Branch-specific dashboards
+* Advanced search filters
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you would like to contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+
+---
+
+## 👨‍💻 Author
+
+**Aman Mehta**
+Engineering Student | Developer | AI Enthusiast
+
+---
+
+## ⭐ Support
+
+If you like this project, consider **starring the repository** to support development.
+
+---
